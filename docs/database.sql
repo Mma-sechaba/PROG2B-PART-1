@@ -135,6 +135,7 @@ GO
 /* ===================================================== 
 6. REGISTRATION TABLE
 ===================================================== */
+   ---the registration table is added and the attributes are also included---
 
 
 CREATE TABLE REGISTRATION
