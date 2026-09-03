@@ -93,6 +93,7 @@ GO
 /* ===================================================== 
 4. CATEGORY TABLE
 ===================================================== */
+   ---the category table is now added and attributes also included---
 
 CREATE TABLE CATEGORY 
 (
