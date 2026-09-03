@@ -50,6 +50,8 @@ GO
 /* ===================================================== 
 2. PARTICIPANT TABLE
 ===================================================== */
+---the participant table is now created and the attributes are included---
+   
 
 CREATE TABLE PARTICIPANT ( ParticipantId INT IDENTITY(1,1) PRIMARY KEY,
 FirstName VARCHAR(50) NOT NULL,
