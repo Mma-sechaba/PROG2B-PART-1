@@ -31,6 +31,8 @@ GO
 /* ===================================================== 1.
 EVENT ORGANISER TABLE 
 ===================================================== */
+---the event table is now created. and attributes are included---
+   
 
 CREATE TABLE EVENT_ORGANISER 
 (
