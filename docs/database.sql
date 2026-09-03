@@ -1,6 +1,8 @@
 /* ===================================================== 
 RACE DAY DATABASE 
 ===================================================== */
+---this where the main database is created for the whole project---
+
 USE master; 
 GO
 
