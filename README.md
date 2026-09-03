@@ -239,10 +239,12 @@ README.md
 CI/CD Status
 
 
-SCREENSHOT HERE 
+![CI Status](docs/ci-status.png)
 
 
-YouTube video link added to this README.
+YouTube video link 
+
+added to this README.
 
 Part 1 Video
 
