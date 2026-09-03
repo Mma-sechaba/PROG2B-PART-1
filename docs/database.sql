@@ -163,6 +163,9 @@ GO
 /* ===================================================== 
 7. RESULT TABLE
 ===================================================== */
+---the results table is now added and the attributes are also included---
+
+   
 
 CREATE TABLE RESULT
 (
