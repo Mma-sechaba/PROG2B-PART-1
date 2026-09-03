@@ -114,6 +114,9 @@ GO
 /* ===================================================== 
 5. WEATHER TABLE
 ===================================================== */
+---the weather table is added and the attributes are also included---
+
+   
 
 CREATE TABLE WEATHER
 (
