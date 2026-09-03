@@ -264,7 +264,7 @@ The SQL database script.
 Running the SQL script in SSMS.
 
 YouTube link:
-
+https://youtu.be/3arvoiBoRyE
 
 
 
