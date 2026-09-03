@@ -238,8 +238,9 @@ README.md
 
 CI/CD Status
 
-
 ![CI Status](docs/ci-status.png)
+<img width="1914" height="799" alt="image" src="https://github.com/user-attachments/assets/586f4495-747d-4020-b716-bea817009f95" />
+
 
 
 YouTube video link 
